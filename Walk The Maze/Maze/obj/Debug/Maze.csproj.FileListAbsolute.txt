@@ -1,0 +1,182 @@
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Maze.dll.config
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Maze.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Maze.pdb
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Antlr3.Runtime.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\EntityFramework.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\EntityFramework.SqlServer.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.Google.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Newtonsoft.Json.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Owin.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Net.Http.Formatting.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Helpers.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Http.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Http.WebHost.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Mvc.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Optimization.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Razor.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.WebPages.Deployment.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.WebPages.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.WebPages.Razor.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\WebGrease.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Helpers.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Mvc.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Optimization.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Razor.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.WebPages.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.WebPages.Deployment.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.WebPages.Razor.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Antlr3.Runtime.pdb
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Newtonsoft.Json.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Net.Http.Formatting.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Http.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\System.Web.Http.WebHost.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\EntityFramework.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\EntityFramework.SqlServer.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.Google.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\obj\Debug\Maze.dll
+E:\Dropbox\Dropbox\3ºAno\LEI_ISEP_1ºSEM_14-15\LAPRV\RPF\Maze\Maze\obj\Debug\Maze.pdb
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Maze.dll.config
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Maze.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Maze.pdb
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Antlr3.Runtime.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\EntityFramework.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\EntityFramework.SqlServer.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Newtonsoft.Json.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Owin.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Net.Http.Formatting.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Helpers.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Http.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Http.WebHost.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Mvc.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Optimization.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Razor.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.WebPages.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\WebGrease.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Helpers.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Mvc.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Optimization.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Razor.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.WebPages.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Antlr3.Runtime.pdb
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Newtonsoft.Json.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Net.Http.Formatting.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Http.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\System.Web.Http.WebHost.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\EntityFramework.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\EntityFramework.SqlServer.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\obj\Debug\Maze.dll
+C:\Users\Pedro_pc\Desktop\lapr5_3semana\Walk The Maze\Maze\Maze\obj\Debug\Maze.pdb
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Maze.dll.config
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Maze.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Maze.pdb
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Antlr3.Runtime.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\EntityFramework.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\EntityFramework.SqlServer.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Newtonsoft.Json.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Owin.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Net.Http.Formatting.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Helpers.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Http.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Http.WebHost.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Mvc.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Optimization.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Razor.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.WebPages.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.WebPages.Razor.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\WebGrease.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Helpers.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Mvc.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Optimization.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Razor.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.WebPages.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.WebPages.Razor.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Antlr3.Runtime.pdb
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Newtonsoft.Json.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Net.Http.Formatting.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Http.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\System.Web.Http.WebHost.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\EntityFramework.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\EntityFramework.SqlServer.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\obj\Debug\Maze.dll
+C:\Users\Escola\Documents\lapr5-segmentation-fault\Walk The Maze\Maze\obj\Debug\Maze.pdb

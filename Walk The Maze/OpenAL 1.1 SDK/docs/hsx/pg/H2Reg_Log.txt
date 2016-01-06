@@ -1,0 +1,143 @@
+===============================================================================
+Log File:             	C:\Program Files (x86)\OpenAL 1.1 SDK\docs\HsX\pg\H2Reg_Log.txt
+Date:                 	14/12/2014 02:10:08
+Operating System:      	Windows NT 6.2 (Build 9200) No Service Pack
+SysLocale.DefaultLCID: 	0x0816 (2070)
+SysLocale.PriLangID:   	0x0016 (22)
+SysLocale.SubLangID:   	0x0002 (2)
+DecimalSeparator:      	,
+-------------------------------------------------------------------------------
+EXE Path =          	C:\Program Files (x86)\OpenAL 1.1 SDK\docs\HsX\pg\H2Reg.exe
+EXE Version =       	1.5.0.0
+Cmdline Param(s) =  	-r | -q
+Actual CmdLine =  	"C:\Program Files (x86)\OpenAL 1.1 SDK\\docs\HsX\pg\H2Reg.exe" -r -q
+_RunDir =           	C:\Program Files (x86)\OpenAL 1.1 SDK\docs\HsX\pg
+_ModuleName =       	H2Reg.exe
+_ModuleDir =        	C:\Program Files (x86)\OpenAL 1.1 SDK\docs\HsX\pg
+_ModulePath =        	C:\Program Files (x86)\OpenAL 1.1 SDK\docs\HsX\pg\H2Reg.exe
+Module Version =       	1.5.0.0
+-------------------------------------------------------------------------------
+_hhInstalled =      	YES
+_hhVerStr =         	6.2.9200.16384
+_hhFriendlyVerStr = 	> 1.4a
+-------------------------------------------------------------------------------
+_ieInstalled =      	YES
+_ieVerStr =         	6.2.9200.16680
+_ieFriendlyVerStr = 	Internet Explorer 6 (Windows Server 2003)
+===============================================================================
+MS Help 2.x Runtime Found: YES
+    2.5.50727.4039, C:\Program Files (x86)\Common Files\Microsoft Shared\Help\hxds.dll
+    2.5.50727.42, C:\Program Files (x86)\Common Files\Microsoft Shared\Help\hxvz.dll
+NT Admin Log On: YES
+PC Language ID = pt
+-------------------------------------------------------------------------------
+Quiet Mode (-Q): Yes
+Registration Mode (-R): Yes
+UnRegistration Mode (-U): No
+Append Log Mode (-A): No
+No NT Admin Check (-N): No
+Merge Indexes Mode (-M): No
+Cmd Script File (CmdFile=): C:\Program Files (x86)\OpenAL 1.1 SDK\docs\HsX\pg\H2Reg.ini
+User Dir 1 (UserDir1=): 
+User Dir 2 (UserDir2=): 
+User Dir 3 (UserDir3=): 
+User Dir 4 (UserDir4=): 
+===============================================================================
+CmdFile = C:\Program Files (x86)\OpenAL 1.1 SDK\docs\HsX\pg\H2Reg.ini
+<windir> = C:\Windows
+<winsysdir> = C:\Windows\system32
+<programfilesdir> = C:\Program Files (x86)
+<exedir> = C:\Program Files (x86)\OpenAL 1.1 SDK\docs\HsX\pg
+<exedirparent> = C:\Program Files (x86)\OpenAL 1.1 SDK\docs\hsx
+<cmdfiledir> = C:\Program Files (x86)\OpenAL 1.1 SDK\docs\hsx\pg
+<cmdfiledirparent> = C:\Program Files (x86)\OpenAL 1.1 SDK\docs\hsx
+<userdir1> = 
+<userdir1parent> = 
+<userdir2> = 
+<userdir2parent> = 
+<userdir3> = 
+<userdir3parent> = 
+<userdir4> = 
+<userdir4parent> = 
+-------------------------------------------------------------------------------
+[Reg_Namespace]
+openal.pg|openal_pg.HxC|OpenAL Programmer's Guide
+
+[Reg_Title]
+openal.pg|openal_pg||openal_pg.HxS|openal_pg.HxS||||||
+
+[Reg_Plugin]
+ms.vsipcc+|_DEFAULT|openal.pg|_DEFAULT|openal_pg.HxA
+ms.vscc|_DEFAULT|openal.pg|_DEFAULT|openal_pg.HxA
+ms.vscc.2003|_DEFAULT|openal.pg|_DEFAULT|openal_pg.HxA
+
+[Reg_Filter]
+
+[UnReg_Namespace]
+openal.pg
+
+[UnReg_Title]
+openal.pg|openal_pg|
+
+[UnReg_Plugin]
+ms.vsipcc+|_DEFAULT|openal.pg|_DEFAULT|openal_pg.HxA
+ms.vscc|_DEFAULT|openal.pg|_DEFAULT|openal_pg.HxA
+ms.vscc.2003|_DEFAULT|openal.pg|_DEFAULT|openal_pg.HxA
+
+[UnReg_Filter]
+
+[Merge_Namespace]
+ms.vsipcc+
+ms.vscc
+ms.vscc.2003
+-------------------------------------------------------------------------------
+02:10:08   [Reg_Namespace] - Lines To Process = 1
+02:10:08     <nsName>="openal.pg"
+02:10:08     <nsColfile>="C:\Program Files (x86)\OpenAL 1.1 SDK\docs\hsx\pg\openal_pg.HxC"
+02:10:08     <nsDesc>="OpenAL Programmer's Guide"
+02:10:08     +Mode = Not Enabled
+02:10:08    -->Registered OK
+-------------------------------------------------------------------------------
+02:10:08   [Reg_Title] - Lines To Process = 1
+02:10:08     <nsName>="openal.pg"
+02:10:08     <TitleID>="openal_pg"
+02:10:08     <LangID>=""
+02:10:08     <HxS_HelpFile>="C:\Program Files (x86)\OpenAL 1.1 SDK\docs\hsx\pg\openal_pg.HxS"
+02:10:08     <HxI_IndexFile>="C:\Program Files (x86)\OpenAL 1.1 SDK\docs\hsx\pg\openal_pg.HxS"
+02:10:08     <HxQ_QueryFile>=""
+02:10:08     <HxR_AttrQueryFile>=""
+02:10:08     <HxsMediaLoc>=""
+02:10:08     <HxqMediaLoc>=""
+02:10:08     <HxrMediaLoc>=""
+02:10:08     <SampleMediaLoc>=""
+02:10:08    -->Registered OK
+-------------------------------------------------------------------------------
+02:10:08   [Reg_Plugin] - Lines To Process = 3
+02:10:08     <nsName_Parent>="ms.vsipcc+"
+02:10:08     <HxT_Parent>="_DEFAULT"
+02:10:08     <nsName_Child>="openal.pg"
+02:10:08     <HxT_Child>="_DEFAULT"
+02:10:08     <HxA_Child>="C:\Program Files (x86)\OpenAL 1.1 SDK\docs\hsx\pg\openal_pg.HxA"
+02:10:08     NS Wild Card "ms.vsipcc+" matches = 1 item(s): MS.VSIPCC.v80
+02:10:08   Plug Child "openal.pg" into "MS.VSIPCC.v80"
+02:10:08    -->Registered OK
+02:10:08   
+02:10:08     <nsName_Parent>="ms.vscc"
+02:10:08     <HxT_Parent>="_DEFAULT"
+02:10:08     <nsName_Child>="openal.pg"
+02:10:08     <HxT_Child>="_DEFAULT"
+02:10:08     <HxA_Child>="C:\Program Files (x86)\OpenAL 1.1 SDK\docs\hsx\pg\openal_pg.HxA"
+02:10:08   ** Reg Error **: Parent Namespace - Matching Namespace name(s) not found: "ms.vscc"
+02:10:08   
+02:10:08     <nsName_Parent>="ms.vscc.2003"
+02:10:08     <HxT_Parent>="_DEFAULT"
+02:10:08     <nsName_Child>="openal.pg"
+02:10:08     <HxT_Child>="_DEFAULT"
+02:10:08     <HxA_Child>="C:\Program Files (x86)\OpenAL 1.1 SDK\docs\hsx\pg\openal_pg.HxA"
+02:10:08   ** Reg Error **: Parent Namespace - Matching Namespace name(s) not found: "ms.vscc.2003"
+-------------------------------------------------------------------------------
+02:10:08   [Reg_Filter] - Lines To Process = 0
+===============================================================================
+
+--END OF FILE--
+

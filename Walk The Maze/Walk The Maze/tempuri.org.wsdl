@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServiceSF" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://wvm038.dei.isep.ipp.pt/website/ServiceSF.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://wvm038.dei.isep.ipp.pt/website/ServiceSF.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServiceSF_InsertUploadData_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertUploadData" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_InsertUploadData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertUploadDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_CheckLogin_InputMessage">
+    <wsdl:part name="parameters" element="tns:CheckLogin" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_CheckLogin_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CheckLoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_RegisterUser_InputMessage">
+    <wsdl:part name="parameters" element="tns:RegisterUser" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_RegisterUser_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RegisterUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_DownloadMapa_InputMessage">
+    <wsdl:part name="parameters" element="tns:DownloadMapa" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_DownloadMapa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DownloadMapaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_GetNumberOfUsers_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetNumberOfUsers" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_GetNumberOfUsers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetNumberOfUsersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_InsertTrack_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertTrack" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_InsertTrack_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertTrackResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_InfoMapa_InputMessage">
+    <wsdl:part name="parameters" element="tns:InfoMapa" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_InfoMapa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InfoMapaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_DownloadMusica_InputMessage">
+    <wsdl:part name="parameters" element="tns:DownloadMusica" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_DownloadMusica_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DownloadMusicaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_DownloadTextura_InputMessage">
+    <wsdl:part name="parameters" element="tns:DownloadTextura" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_DownloadTextura_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DownloadTexturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_DownloadModeloInimigo_InputMessage">
+    <wsdl:part name="parameters" element="tns:DownloadModeloInimigo" />
+  </wsdl:message>
+  <wsdl:message name="IServiceSF_DownloadModeloInimigo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DownloadModeloInimigoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServiceSF">
+    <wsdl:operation name="InsertUploadData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceSF/InsertUploadData" message="tns:IServiceSF_InsertUploadData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceSF/InsertUploadDataResponse" message="tns:IServiceSF_InsertUploadData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckLogin">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceSF/CheckLogin" message="tns:IServiceSF_CheckLogin_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceSF/CheckLoginResponse" message="tns:IServiceSF_CheckLogin_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RegisterUser">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceSF/RegisterUser" message="tns:IServiceSF_RegisterUser_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceSF/RegisterUserResponse" message="tns:IServiceSF_RegisterUser_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DownloadMapa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceSF/DownloadMapa" message="tns:IServiceSF_DownloadMapa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceSF/DownloadMapaResponse" message="tns:IServiceSF_DownloadMapa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNumberOfUsers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceSF/GetNumberOfUsers" message="tns:IServiceSF_GetNumberOfUsers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceSF/GetNumberOfUsersResponse" message="tns:IServiceSF_GetNumberOfUsers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertTrack">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceSF/InsertTrack" message="tns:IServiceSF_InsertTrack_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceSF/InsertTrackResponse" message="tns:IServiceSF_InsertTrack_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InfoMapa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceSF/InfoMapa" message="tns:IServiceSF_InfoMapa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceSF/InfoMapaResponse" message="tns:IServiceSF_InfoMapa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DownloadMusica">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceSF/DownloadMusica" message="tns:IServiceSF_DownloadMusica_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceSF/DownloadMusicaResponse" message="tns:IServiceSF_DownloadMusica_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DownloadTextura">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceSF/DownloadTextura" message="tns:IServiceSF_DownloadTextura_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceSF/DownloadTexturaResponse" message="tns:IServiceSF_DownloadTextura_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DownloadModeloInimigo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceSF/DownloadModeloInimigo" message="tns:IServiceSF_DownloadModeloInimigo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceSF/DownloadModeloInimigoResponse" message="tns:IServiceSF_DownloadModeloInimigo_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServiceSF" type="tns:IServiceSF">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertUploadData">
+      <soap:operation soapAction="http://tempuri.org/IServiceSF/InsertUploadData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckLogin">
+      <soap:operation soapAction="http://tempuri.org/IServiceSF/CheckLogin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegisterUser">
+      <soap:operation soapAction="http://tempuri.org/IServiceSF/RegisterUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadMapa">
+      <soap:operation soapAction="http://tempuri.org/IServiceSF/DownloadMapa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNumberOfUsers">
+      <soap:operation soapAction="http://tempuri.org/IServiceSF/GetNumberOfUsers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertTrack">
+      <soap:operation soapAction="http://tempuri.org/IServiceSF/InsertTrack" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InfoMapa">
+      <soap:operation soapAction="http://tempuri.org/IServiceSF/InfoMapa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadMusica">
+      <soap:operation soapAction="http://tempuri.org/IServiceSF/DownloadMusica" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadTextura">
+      <soap:operation soapAction="http://tempuri.org/IServiceSF/DownloadTextura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadModeloInimigo">
+      <soap:operation soapAction="http://tempuri.org/IServiceSF/DownloadModeloInimigo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServiceSF">
+    <wsdl:port name="BasicHttpBinding_IServiceSF" binding="tns:BasicHttpBinding_IServiceSF">
+      <soap:address location="http://wvm038.dei.isep.ipp.pt/website/ServiceSF.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
